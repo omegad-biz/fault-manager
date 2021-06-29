@@ -18,7 +18,7 @@
   "require": {
     "php": "^7.2",
     "hoa/exception": "2.17.08.30",
-    "league/flysystem": "1.0.44",
+    "league/flysystem": "2.1.1",
     "roave/better-reflection": "^3.2",
     "zendframework/zend-code": "^3.3"
   },
